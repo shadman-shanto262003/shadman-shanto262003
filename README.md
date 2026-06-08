@@ -3,7 +3,7 @@
 
 CS Undergraduate || Programmer || Studies at United International University
 
-Skills: C++ / C / JAVA / HTML / CSS
+Skills: C++ / C / JAVA / HTML / CSS/ SQL
 
 
 
